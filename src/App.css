@@ -1,0 +1,23 @@
+.btn-info {
+  margin-left: 10px
+}
+
+#name-column {
+  columns: 2
+}
+
+#username-column {
+  columns: 1
+}
+
+label {
+  margin-right:5px
+}
+.card {
+  padding: 10px
+}
+
+div {
+  background-color: rgb(168, 211, 211);
+}
+
